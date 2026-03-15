@@ -15,12 +15,12 @@
   <p align="center">
     A discord nitro generator and checker for all your nitro needs
     <br />
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/maha200015qwe-dot/Discord-Nitro-Generator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Report Bug</a>
+    <a href="https://github.com/maha200015qwe-dot/Discord-Nitro-Generator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Request Feature</a>
+    <a href="https://github.com/maha200015qwe-dot/Discord-Nitro-Generator/issues">Request Feature</a>
       ·
     <a href="https://www.anonix.xyz/discord">Join the discord</a>
   </p>
@@ -56,12 +56,6 @@
 
 It generates and checks discord nitro codes at the same time for maximum efficiency
 
-### Built With
-
-* [Requests](https://github.com/psf/requests)
-* [Discord webhook](https://github.com/lovvskillz/python-discord-webhook)
-* [Colored](https://gitlab.com/dslackw/colored)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
@@ -72,7 +66,7 @@ You need to install Python, that can be done [here](https://www.python.org)
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker.git
+   git clone https://github.com/maha200015qwe-dot/Discord-Nitro-Generator.git
    ```
 2. Install Python packages
    ```sh
@@ -86,9 +80,9 @@ You need to install Python, that can be done [here](https://www.python.org)
 #### Or this can be done using android with unrooted Termux
 ```
 pkg install git
-git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker
+git clone https://github.com/maha200015qwe-dot/Discord-Nitro-Generator.git
 pkg install python
-cd Discord-Nitro-Generator-and-Checker
+cd Discord-Nitro-Generator
 pip install -r requirements.txt
 python3 main.py
 ```
@@ -107,7 +101,7 @@ The code will start generating and checking after that step
 
 ## Roadmap
 
-See the [open issues](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/maha200015qwe-dot/Discord-Nitro-Generator/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -127,12 +121,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Contact
-
-Logicguy - [@Drillenissen#4268](https://www.discordapp.com) - logicguy.mailandcontact@gmail.com
-
-Project Link: [https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker)
 
 <!-- Statistics -->  
 

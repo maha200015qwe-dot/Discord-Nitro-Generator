@@ -5,9 +5,6 @@
 <img src=https://img.shields.io/github/issues-pr/logicguy1/Discord-Nitro-Generator-and-Checker?style=for-the-badge&logo=appveyor&color=informational />
 </p>
 <br />
-<p align="center">
-  </a>
-  
   <h3 align="center">Discord Nitro Generator and Checker</h3>
   <p align="center">
     A discord nitro generator and checker for all your nitro needs
